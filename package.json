@@ -23,6 +23,5 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  },
-  "author": "Diyah Ayu Fitriana"
+  }
 }
